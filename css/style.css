@@ -1,0 +1,25 @@
+.panda-card{
+    border: 0;
+    background-color: white;
+    border-radius: 50px;
+}
+.card-border{
+    border: 0;
+    background-color: white;
+}
+.panda-cl{
+    background-color:#fceae8;
+
+    padding-left: 15px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.last{
+    border-radius: 50px;
+    height: 250px;
+    
+}
+.price{
+    color: rgba(0, 0, 255, 0.822);
+}
